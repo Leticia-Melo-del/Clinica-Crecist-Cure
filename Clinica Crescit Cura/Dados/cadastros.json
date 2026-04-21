@@ -1,0 +1,49 @@
+[
+  {
+    "Id": 1,
+    "DataCadastroUtc": "2026-04-21T19:37:44.2030504Z",
+    "Responsavel": {
+      "Id": 1,
+      "NomeCompleto": "Rafa Unti",
+      "Cpf": "550.086.988-42",
+      "CpfNumerico": "55008698842",
+      "Telefone": "(11) 97832-4580",
+      "TelefoneNumerico": "11978324580",
+      "Email": "anapaula8084@gmail.com",
+      "Endereco": "Rio de Janeriro",
+      "SenhaHash": "PBKDF2$100000$izzb15MH1x9Y9kGWdsdSTg==$/53EPDUZAh0nI3tloubxe1sZRTMlXyM\u002B2YOTuuhjC\u002Bw="
+    },
+    "Pacientes": [
+      {
+        "Id": 1,
+        "ResponsavelId": 1,
+        "NomeCompleto": "Cirilo",
+        "Cpf": "01455799564",
+        "CpfNumerico": "01455799564",
+        "Genero": "Masculino",
+        "DataNascimento": "2007-05-02T00:00:00",
+        "TipoSanguineo": "A\u002B",
+        "Alergias": "",
+        "DoencasPreExistentes": "",
+        "Peso": 0,
+        "Altura": 0,
+        "Idade": 18
+      },
+      {
+        "Id": 2,
+        "ResponsavelId": 1,
+        "NomeCompleto": "Gabriel",
+        "Cpf": "12345678143",
+        "CpfNumerico": "12345678143",
+        "Genero": "Masculino",
+        "DataNascimento": "2003-07-01T00:00:00",
+        "TipoSanguineo": "",
+        "Alergias": "",
+        "DoencasPreExistentes": "",
+        "Peso": 0,
+        "Altura": 0,
+        "Idade": 22
+      }
+    ]
+  }
+]

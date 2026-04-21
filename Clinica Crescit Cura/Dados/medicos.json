@@ -1,0 +1,82 @@
+[
+  {
+    "Id": 1,
+    "CpfNumerico": "12345678143",
+    "Crm": "CRM-SP 618605",
+    "Especialidade": "Pediatria",
+    "MedEmail": "ana.silva@clinicacrescitcura.com",
+    "SenhaHash": "PBKDF2$100000$m/FGR0Sg77ZOHx8CZeiYaQ==$H/1rK951OBIdl\u002Bw/ixCi0AkagS8wxGg5YtFnb4f9zj4=",
+    "NomeCompleto": "Ana Silva",
+    "CPF": "12345678143"
+  },
+  {
+    "Id": 2,
+    "CpfNumerico": "12345678224",
+    "Crm": "CRM-SP 024566",
+    "Especialidade": "Neurologia Pedi\u00E1trica",
+    "MedEmail": "marcos.oliveira@clinicacrescitcura.com",
+    "SenhaHash": "PBKDF2$100000$Dmb1p/gegZ8H9/KuBsc1Jw==$O6iCu3CBbwwTcwIgJ6sIOMAE736/6UYCE7W/BdL3jUY=",
+    "NomeCompleto": "Marcos Oliveira",
+    "CPF": "12345678224"
+  },
+  {
+    "Id": 3,
+    "CpfNumerico": "12345678305",
+    "Crm": "CRM-SP 985477",
+    "Especialidade": "Nutricionista Pedi\u00E1trica",
+    "MedEmail": "beatriz.costa@clinicacrescitcura.com",
+    "SenhaHash": "PBKDF2$100000$8P7jzXzdx36WwA7pVzl/YQ==$rc240yRjVV/GfVBaikyFBdCVha0OVDkYIK4VnLrbRTo=",
+    "NomeCompleto": "Beatriz Costa",
+    "CPF": "12345678305"
+  },
+  {
+    "Id": 4,
+    "CpfNumerico": "12345678496",
+    "Crm": "CRM-SP 362110",
+    "Especialidade": "Cardiologia Pedi\u00E1trica",
+    "MedEmail": "ricardo.alves@clinicacrescitcura.com",
+    "SenhaHash": "PBKDF2$100000$goxI3jPrB2XKbz\u002B/rCbh7A==$TPcz\u002BMgH8txc96128qd4tAcxsRk3EAeqnuZylhVjQnM=",
+    "NomeCompleto": "Ricardo Alves",
+    "CPF": "12345678496"
+  },
+  {
+    "Id": 5,
+    "CpfNumerico": "12345678577",
+    "Crm": "CRM-SP 800289",
+    "Especialidade": "Pneumologia Pedi\u00E1trica",
+    "MedEmail": "felipe.mendes@clinicacrescitcura.com",
+    "SenhaHash": "PBKDF2$100000$TY3ONZDXeKzfp1OBcdiXgA==$haPqzp83mgRiUb6OiUiCFqGgGZ0VUR\u002B8mHy4A/J\u002BUxU=",
+    "NomeCompleto": "Felipe Mendes",
+    "CPF": "12345678577"
+  },
+  {
+    "Id": 6,
+    "CpfNumerico": "12345678658",
+    "Crm": "CRM-SP 202465",
+    "Especialidade": "Endocrinologia Pedi\u00E1trica",
+    "MedEmail": "carla.dias@clinicacrescitcura.com",
+    "SenhaHash": "PBKDF2$100000$nuiA41zCBVZu6TYd2kqXsQ==$xV2Weda6WW9qXY2wjZEbursFUTRMEzYlAw9YhnjGIsc=",
+    "NomeCompleto": "Carla Dias",
+    "CPF": "12345678658"
+  },
+  {
+    "Id": 7,
+    "CpfNumerico": "12345678739",
+    "Crm": "CRM-SP 502662",
+    "Especialidade": "Puericultura Pedi\u00E1trica",
+    "MedEmail": "ana.souza@clinicacrescitcura.com",
+    "SenhaHash": "PBKDF2$100000$vTU6OGPupN/zUH5\u002Becw9qw==$0hmVgGt5MoUfiM2I5nvj9YH8ZOvQMaFGCanlF7l1x\u002Bc=",
+    "NomeCompleto": "Ana Souza",
+    "CPF": "12345678739"
+  },
+  {
+    "Id": 8,
+    "CpfNumerico": "12345678810",
+    "Crm": "CRM-SP 125428",
+    "Especialidade": "Dermatologia Pedi\u00E1trica",
+    "MedEmail": "luana.couto@clinicacrescitcura.com",
+    "SenhaHash": "PBKDF2$100000$qbJ\u002Bu2nDsTc1g3SORSkfLA==$qIEf9JSVqR0/kUTRl6TyyCRbVAw/A4S5OGBkB\u002BS06UU=",
+    "NomeCompleto": "Luana Couto",
+    "CPF": "12345678810"
+  }
+]

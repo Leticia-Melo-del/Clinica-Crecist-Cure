@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Clinica Crescit Cura/1.0.0": {
+        "runtime": {
+          "Clinica Crescit Cura.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Clinica Crescit Cura/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

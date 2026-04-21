@@ -1,0 +1,9 @@
+
+[
+  {
+    "Id": 1,
+    "NomeCompleto": "Administrador Principal",
+    "Email": "admin@clinicacrescitcura.com",
+    "SenhaHash": "PBKDF2$100000$C8FZqZYsSjETdkqq94rlUg==$3/aCBP86b32Znvhm5pja6HqqO\u002BWUoGYYXI1NgFWQRnc="
+  }
+]

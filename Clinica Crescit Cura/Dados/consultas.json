@@ -1,0 +1,13 @@
+[
+  {
+    "Id": 1,
+    "PacienteId": 1,
+    "MedicoId": 8,
+    "DataHora": "2026-04-22T16:30:00",
+    "Valor": 250.00,
+    "Status": "Realizada",
+    "Observacoes": "",
+    "Diagnostico": "Banana",
+    "FoiPago": true
+  }
+]
